@@ -31,4 +31,8 @@ Assignment
   -Assignment Submission of Method
   -String
 # 29-01-25>
-  `
+  -Study about the string and done assignment
+# 30-01-25>
+  -study about the string fucntions and method and impliment it
+# 31-01-25>
+  -Done the assignment of the string using builtin function and read oops concept
