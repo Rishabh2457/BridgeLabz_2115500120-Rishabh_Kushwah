@@ -36,3 +36,5 @@ Assignment
   -study about the string fucntions and method and impliment it
 # 31-01-25>
   -Done the assignment of the string using builtin function and read oops concept
+# 07-02-25>
+- learn about interface,inheritence and abstraction.
